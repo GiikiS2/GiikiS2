@@ -4,6 +4,6 @@
 
 ## empty page 🤠
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giikis2&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giikis2&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10&layout=compact"/>
 </p>
 <br>
