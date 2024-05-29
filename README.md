@@ -6,8 +6,9 @@ sorry my actual repos are in my gitlab :)
 https://gitlab.com/GiikiS2
 
 ## rynwet rgb weth🤠
+<div>
+<img align="left" alt="Giiki_s2" height="150" style="border-radius: 30px;" src="https://files.catbox.moe/uvpszn.jpg">
 <p align="center">
-    <img align="left" alt="Giiki_s2" height="150" style="border-radius: 30px;" src="https://files.catbox.moe/uvpszn.jpg">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giikis2&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10&layout=compact"/>
   fake thats fake!
 </p>
