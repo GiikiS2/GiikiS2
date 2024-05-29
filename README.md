@@ -7,7 +7,7 @@ https://gitlab.com/GiikiS2
 
 ## rynwet rgb weth🤠
 <p align="center">
-    <img align="right" alt="Giiki_s2" height="150" style="border-radius: 30px;" src="https://files.catbox.moe/uvpszn.jpg">
+    <img align="left" alt="Giiki_s2" height="150" style="border-radius: 30px;" src="https://files.catbox.moe/uvpszn.jpg">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giikis2&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10&layout=compact"/>
   fake thats fake!
 </p>
