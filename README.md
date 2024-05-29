@@ -5,7 +5,7 @@
 sorry my actual repos are in my gitlab :)
 https://gitlab.com/GiikiS2
 
-## empty page 🤠
+## rynwet rgb weth🤠
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giikis2&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10&layout=compact"/>
 </p>
