@@ -1,7 +1,3 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://camo.githubusercontent.com/ea6deb008d624cb9cb6d8b775ec9e4b19abd1e7371799a1817237a41059471c9/68747470733a2f2f66696c65732e636174626f782e6d6f652f757670737a6e2e6a7067');]{x0000}$}
-```
-
 <p align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FzQnR8gX-ce8AAAAi%2Fhey-floppa.gif&f=1&nofb=1&ipt=904cef39cccf3182e1c76ccb76005fe32737fe4aeddfe565e9153b249c9db443&ipo=images" /><br><br>
 </p>
