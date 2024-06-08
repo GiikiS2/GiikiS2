@@ -1,3 +1,7 @@
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Lateasusual/Lateasusual/assets/24512254/3fdd5257-0f89-458c-b444-401b3d494198');]{x0000}$}
+```
+
 <p align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FzQnR8gX-ce8AAAAi%2Fhey-floppa.gif&f=1&nofb=1&ipt=904cef39cccf3182e1c76ccb76005fe32737fe4aeddfe565e9153b249c9db443&ipo=images" /><br><br>
 </p>
